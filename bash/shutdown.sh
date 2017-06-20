@@ -1,0 +1,1 @@
+ps -ef | grep Server.php | awk '$3==1 {print $2}' | xargs kill -TERM

@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d5c1758-e069-4117-a5f8-48c3a6392bf9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DCO.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/Welcome.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build-release.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contributing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpdoc.dist.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/readme.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/Bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/Setup_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/Benchmark_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/Common_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/Config_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/Input_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/Lang_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/Loader_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/Log_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/Model_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/Output_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/Security_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/URI_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/Utf8_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/compat/hash_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/compat/mbstring_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/compat/password_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/core/compat/standard_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/DB_driver_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/DB_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/count_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/delete_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/distinct_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/empty_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/escape_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/from_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/get_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/group_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/insert_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/join_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/like_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/limit_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/order_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/select_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/truncate_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/update_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/database/query_builder/where_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/array_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/captcha_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/cookie_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/date_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/directory_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/download_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/email_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/file_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/form_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/html_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/inflector_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/language_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/number_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/path_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/security_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/string_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/text_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/url_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/helpers/xml_helper_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/libraries/Calendar_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/libraries/Driver_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/libraries/Encrypt_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/libraries/Encryption_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/libraries/Form_validation_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/libraries/Parser_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/libraries/Session_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/libraries/Table_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/libraries/Typography_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/libraries/Upload_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/codeigniter/libraries/Useragent_test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/autoloader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/ci_testcase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/ci_testconfig.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/core/common.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/core/input.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/core/security.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/core/uri.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/core/utf8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/ci_test.sqlite" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/config/mysql.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/config/mysqli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/config/pdo/mysql.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/config/pdo/pgsql.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/config/pdo/sqlite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/config/pgsql.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/config/sqlite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/db.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/db/driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/drivers/mysql.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/drivers/mysqli.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/drivers/pdo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/drivers/postgre.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/drivers/sqlite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/database/schema/skeleton.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/libraries/driver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/libraries/encrypt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/libraries/encryption.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/libraries/session.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/libraries/table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/mocks/uploads/ci_logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/travis/mysql.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/travis/mysqli.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/travis/pdo/mysql.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/travis/pdo/pgsql.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/travis/pdo/sqlite.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/travis/pgsql.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/travis/sqlite.phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/README.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/cilexer/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/cilexer/cilexer/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/cilexer/cilexer/cilexer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/cilexer/setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/DCO.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/breadcrumbs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/layout_old.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/pulldown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/searchbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/static/css/badge_only.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/static/css/citheme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/static/css/theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/static/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/static/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/static/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/static/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/static/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/static/images/ci-icon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/static/js/oldtheme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/static/js/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/theme.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/_themes/sphinx_rtd_theme/versions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/changelog.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/conf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/contributing/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/caching.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/call_function.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/configuration.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/connecting.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/db_driver_reference.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/examples.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/forge.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/helpers.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/metadata.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/queries.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/query_builder.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/results.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/transactions.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/database/utilities.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/documentation/ELDocs.tmbundle.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/documentation/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/alternative_php.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/ancillary_classes.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/autoloader.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/caching.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/cli.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/common_functions.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/compatibility_functions.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/controllers.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/core_classes.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/creating_drivers.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/creating_libraries.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/credits.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/drivers.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/environments.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/errors.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/helpers.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/hooks.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/libraries.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/managing_apps.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/models.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/profiling.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/requirements.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/reserved_names.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/routing.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/security.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/styleguide.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/urls.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/views.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/general/welcome.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/array_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/captcha_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/cookie_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/date_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/directory_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/download_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/email_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/file_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/form_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/html_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/inflector_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/language_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/number_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/path_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/security_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/smiley_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/string_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/text_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/typography_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/url_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/helpers/xml_helper.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/images/appflowchart.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/images/arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/images/ci-icon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/images/ci_logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/images/ci_logo_flame.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/images/file.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/images/folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/images/smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/downloads.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/troubleshooting.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_120.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_130.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_131.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_132.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_133.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_140.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_141.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_150.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_152.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_153.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_154.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_160.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_161.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_162.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_163.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_170.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_171.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_172.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_200.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_201.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_202.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_203.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_210.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_211.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_212.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_213.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_214.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_220.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_221.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_222.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_223.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_300.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_301.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_302.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_303.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_304.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_305.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_306.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_310.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_311.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_312.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_313.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_314.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_315.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrade_b11.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/installation/upgrading.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/benchmark.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/caching.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/calendar.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/cart.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/config.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/email.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/encrypt.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/encryption.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/file_uploading.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/form_validation.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/ftp.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/image_lib.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/input.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/javascript.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/language.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/loader.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/migration.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/output.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/pagination.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/parser.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/security.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/sessions.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/table.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/trackback.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/typography.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/unit_testing.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/uri.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/user_agent.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/xmlrpc.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/libraries/zip.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/license.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/overview/appflow.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/overview/at_a_glance.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/overview/features.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/overview/getting_started.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/overview/goals.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/overview/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/overview/mvc.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/tutorial/conclusion.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/tutorial/create_news_items.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/tutorial/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/tutorial/news_section.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user_guide_src/source/tutorial/static_pages.rst" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/config/config.php" afterPath="$PROJECT_DIR$/application/config/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Common.php" afterPath="$PROJECT_DIR$/system/core/Common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Exceptions.php" afterPath="$PROJECT_DIR$/system/core/Exceptions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Input.php" afterPath="$PROJECT_DIR$/system/core/Input.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/Loader.php" afterPath="$PROJECT_DIR$/system/core/Loader.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/system/core/URI.php" afterPath="$PROJECT_DIR$/system/core/URI.php" />
+    </list>
+    <ignored path="ci.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ci" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Pressure.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Pressure.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.40934843">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <marker date="1497864402000" expanded="true" signature="368:409" placeholder="insert into pressure..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="0.8493353">
+                <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="swoole.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/swoole.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Loader.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/core/Loader.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-183.73077">
+              <caret line="745" column="8" selection-start-line="745" selection-start-column="8" selection-end-line="745" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Input.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/core/Input.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.076923">
+              <caret line="733" column="41" selection-start-line="733" selection-start-column="41" selection-end-line="733" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="URI.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/core/URI.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-293.26923">
+              <caret line="643" column="21" selection-start-line="643" selection-start-column="21" selection-end-line="643" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Log.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/core/Log.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.384615">
+              <caret line="193" column="58" selection-start-line="193" selection-start-column="58" selection-end-line="193" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Common.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/core/Common.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5283017">
+              <caret line="273" column="41" selection-start-line="273" selection-start-column="41" selection-end-line="273" selection-end-column="41" />
+              <folding>
+                <marker date="1497924445000" expanded="true" signature="4304:4393" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Output.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/core/Output.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.730769">
+              <caret line="792" column="30" selection-start-line="792" selection-start-column="30" selection-end-line="792" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/server/index.php" />
+        <option value="$PROJECT_DIR$/ci_index.php" />
+        <option value="$PROJECT_DIR$/Server.php" />
+        <option value="$PROJECT_DIR$/system/core/CodeIgniter_swoole.php" />
+        <option value="$PROJECT_DIR$/index_swoole.php" />
+        <option value="$PROJECT_DIR$/Codeigniter_ini.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/Codeigniter_handle.php" />
+        <option value="$PROJECT_DIR$/system/core/Router.php" />
+        <option value="$PROJECT_DIR$/application/models/M_test.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Test.php" />
+        <option value="$PROJECT_DIR$/application/models/dir/m_lala.php" />
+        <option value="$PROJECT_DIR$/application/controllers/dir/Name.php" />
+        <option value="$PROJECT_DIR$/server/swoole_index.php" />
+        <option value="$PROJECT_DIR$/swoole_index.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Welcome.php" />
+        <option value="$PROJECT_DIR$/system/core/CodeIgniter.php" />
+        <option value="$PROJECT_DIR$/system/core/URI.php" />
+        <option value="$PROJECT_DIR$/server/Codeigniter_ini.php" />
+        <option value="$PROJECT_DIR$/system/core/Utf8.php" />
+        <option value="$PROJECT_DIR$/application/views/test.php" />
+        <option value="$PROJECT_DIR$/system/core/Exceptions.php" />
+        <option value="$PROJECT_DIR$/server/Codeigniter_handle.php" />
+        <option value="$PROJECT_DIR$/system/core/Output.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Hello.php" />
+        <option value="$PROJECT_DIR$/system/core/Loader.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Pressure.php" />
+        <option value="$PROJECT_DIR$/swoole_constant.php" />
+        <option value="$PROJECT_DIR$/server/reload.sh" />
+        <option value="$PROJECT_DIR$/server/shutdown.sh" />
+        <option value="$PROJECT_DIR$/server/Server.php" />
+        <option value="$PROJECT_DIR$/bash/shutdown.sh" />
+        <option value="$PROJECT_DIR$/system/core/Input.php" />
+        <option value="$PROJECT_DIR$/system/core/Common.php" />
+        <option value="$PROJECT_DIR$/server/swoole.ini" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$USER_HOME$/Downloads/source/swoole-ide-helper" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1361" />
+    <option name="y" value="-18" />
+    <option name="width" value="1560" />
+    <option name="height" value="852" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ci" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ci" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ciswoole" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ci" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ciswoole" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../course/httpserver" />
+    <property name="js-jscs-nodeInterpreter" value="/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tmp" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/bash" />
+      <recent name="$PROJECT_DIR$/application" />
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/system/core" />
+      <recent name="$PROJECT_DIR$/system/core/compat" />
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d5c1758-e069-4117-a5f8-48c3a6392bf9" name="Default" comment="" />
+      <created>1497085000272</created>
+      <option name="number" value="Default" />
+      <updated>1497085000272</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1361" y="-18" width="1560" height="852" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22332016" sideWeight="0.49473685" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22332016" sideWeight="0.50526315" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sh" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/Codeigniter_handle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="95" column="25" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+          <folding>
+            <element signature="e#10#194#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="147" column="15" selection-start-line="147" selection-start-column="15" selection-end-line="147" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Utf8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="32" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="195" column="18" selection-start-line="195" selection-start-column="18" selection-end-line="195" selection-end-column="18" />
+          <folding>
+            <marker date="1497924445000" expanded="true" signature="4304:4393" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Benchmark.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="107" column="8" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="108" column="5" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/swoole.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swoole_constant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="300" column="4" selection-start-line="300" selection-start-column="4" selection-end-line="300" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Codeigniter_ini.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="296" column="0" selection-start-line="296" selection-start-column="0" selection-end-line="296" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Codeigniter_handle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding>
+            <element signature="e#10#194#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/source/swoole-ide-helper/src/Functionals.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3468697">
+          <caret line="668" column="6" selection-start-line="668" selection-start-column="6" selection-end-line="668" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_defines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34615386">
+          <caret line="711" column="9" selection-start-line="711" selection-start-column="9" selection-end-line="711" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="108" column="5" selection-start-line="108" selection-start-column="5" selection-end-line="108" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Utf8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.230769">
+          <caret line="67" column="20" selection-start-line="67" selection-start-column="20" selection-end-line="67" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/welcome_message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82254696">
+          <caret line="84" column="61" selection-start-line="84" selection-start-column="61" selection-end-line="84" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-39.884617">
+          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Codeigniter_ini.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.923077">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8580376">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/source/swoole-ide-helper/src/Http/Response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.585595">
+          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Codeigniter_handle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="227" column="15" selection-start-line="227" selection-start-column="15" selection-end-line="227" selection-end-column="15" />
+          <folding>
+            <element signature="e#10#194#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Benchmark.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.053347282">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bash/reload.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="46" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bash/shutdown.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.0">
+          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/swoole_constant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.4532576">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/CodeIgniter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.384615">
+          <caret line="326" column="12" selection-start-line="326" selection-start-column="12" selection-end-line="326" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/helpers/url_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0963173">
+          <caret line="566" column="8" selection-start-line="566" selection-start-column="8" selection-end-line="566" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Output.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.730769">
+          <caret line="792" column="30" selection-start-line="792" selection-start-column="30" selection-end-line="792" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Exceptions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38526914">
+          <caret line="175" column="8" selection-start-line="175" selection-start-column="8" selection-end-line="175" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/URI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-293.26923">
+          <caret line="643" column="21" selection-start-line="643" selection-start-column="21" selection-end-line="643" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.384615">
+          <caret line="193" column="58" selection-start-line="193" selection-start-column="58" selection-end-line="193" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5283017">
+          <caret line="273" column="41" selection-start-line="273" selection-start-column="41" selection-end-line="273" selection-end-column="41" />
+          <folding>
+            <marker date="1497924445000" expanded="true" signature="4304:4393" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.076923">
+          <caret line="733" column="41" selection-start-line="733" selection-start-column="41" selection-end-line="733" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/core/Loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-183.73077">
+          <caret line="745" column="8" selection-start-line="745" selection-start-column="8" selection-end-line="745" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/swoole.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.3314447">
+          <caret line="183" column="1" selection-start-line="183" selection-start-column="1" selection-end-line="183" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.8493353">
+            <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp/压测对比.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Pressure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40934843">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <marker date="1497864402000" expanded="true" signature="368:409" placeholder="insert into pressure..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
