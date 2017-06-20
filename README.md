@@ -1,6 +1,6 @@
 #ci_swoole
 --
-整合了Codeigniter和Swoole扩展的web框架,底层使用swoole_http_server提供服务,上层应用使用codeigniter框架搭建
+整合了Codeigniter和Swoole扩展的web框架,底层使用swoole_http_server提供服务,上层应用使用codeigniter框架搭建.
 
 ##使用
 1.  cd server
@@ -12,7 +12,7 @@
 ##改造思路
 1.  CI框架执行单个请求的过程包括全局加载(包括一些常量的定义以及文件的引入)以及处理请求两部分.
     -   将全局加载放到workerStart回调中,避免每个请求的重复加载.
-    -   将处理请求部分放到onRequest回调里.
+    -   将处理请求部分放到request回调里.
 1.  传统的nginx+fpm在执行请求的过程,nginx会先将请求处理成符合fastcgi标准传递到fpm,php解释器会进行处理并填充超全局变量.
     -   在onRequest回调中添加对超全局变量的填充.
 1.  worker进程执行到exit/die会退出.
@@ -60,7 +60,7 @@
 >   swoole_server的请求响应时间比nginx+fpm缩短20ms左右.
 
 ![image](https://raw.githubusercontent.com/xiaosaxd/ci_swoole/master/tmp/%E5%8E%8B%E6%B5%8B%E5%AF%B9%E6%AF%94.png)
->   swoole_server的qps比nginx+fpm的要高很多.
+>   开c200进行压测,可以看到swoole_server的qps比nginx+fpm高很多很多，同时后者在这个时候已经开始出现大量失败请求.
 
 ![image](https://raw.githubusercontent.com/xiaosaxd/ci_swoole/master/tmp/c1000.png)
 >   swoole_server在1000的并发数时还能很好的处理请求.
