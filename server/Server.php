@@ -9,6 +9,7 @@
             $this->serv = new swoole_http_server($conf['host'], $conf['port']);
             $this->serv->set([
                 'worker_num' => $conf['worker_num'],
+                'max_request' => $conf['max_request'],
                 'daemonize' => $conf['daemonize'] != '' ? $conf['daemonize'] : ($conf['env'] == 'development' ? false : true),
                 'log_file' => $conf['log_file']
             ]);

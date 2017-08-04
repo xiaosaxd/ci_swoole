@@ -948,7 +948,7 @@ class CI_Loader {
 		 *	intercept the content right before it's sent to the browser and
 		 *	then stop the timer it won't be accurate.
 		 */
-		ob_start();
+//		ob_start();
 
 		// If the PHP installation does not support short tags we'll
 		// do a little string replacement, changing the short tags
@@ -965,12 +965,12 @@ class CI_Loader {
 		log_message('info', 'File loaded: '.$_ci_path);
 
 		// Return the file data if requested
-		if ($_ci_return === TRUE)
-		{
-			$buffer = ob_get_contents();
-			@ob_end_clean();
-			return $buffer;
-		}
+//		if ($_ci_return === TRUE)
+//		{
+//			$buffer = ob_get_contents();
+//			@ob_end_clean();
+//			return $buffer;
+//		}
 
 		/*
 		 * Flush the buffer... or buff the flusher?
@@ -981,23 +981,23 @@ class CI_Loader {
 		 * it can be seen and included properly by the first included
 		 * template and any subsequent ones. Oy!
 		 */
-		if(is_swoole())
-		{
-			$_ci_CI->output->set_output(ob_get_contents());
-			ob_end_clean();
-		}
-		else
-		{
-			if (ob_get_level() > $this->_ci_ob_level + 1)
-			{
-				ob_end_flush();
-			}
-			else
-			{
-				$_ci_CI->output->append_output(ob_get_contents());
-				@ob_end_clean();
-			}
-		}
+//		if(is_swoole())
+//		{
+//			$_ci_CI->output->set_output(ob_get_contents());
+//			ob_end_clean();
+//		}
+//		else
+//		{
+//			if (ob_get_level() > $this->_ci_ob_level + 1)
+//			{
+//				ob_end_flush();
+//			}
+//			else
+//			{
+//				$_ci_CI->output->append_output(ob_get_contents());
+//				@ob_end_clean();
+//			}
+//		}
 
 		return $this;
 	}
